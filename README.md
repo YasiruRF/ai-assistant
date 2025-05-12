@@ -1,6 +1,3 @@
-Here's complete **documentation** for your customizable voice AI assistant, ideal for developers or users who want to adapt and personalize it for their own use:
-
----
 
 # 🎤 Customizable Voice AI Assistant (Misa AI)
 
@@ -10,8 +7,6 @@ This Python project is a fully voice-controlled AI assistant, powered by:
 * **ElevenLabs** for high-quality, customizable text-to-speech
 * **SpeechRecognition** for capturing your voice input
 * **Pygame** for audio playback
-
-> This assistant is *sassy, sarcastic, and intelligent by default*, but you can change its name, tone, and behavior by tweaking a few environment variables.
 
 ---
 
