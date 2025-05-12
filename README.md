@@ -3,7 +3,7 @@
 
 This Python project is a fully voice-controlled AI assistant, powered by:
 
-* **Google Gemini 1.5 Flash** for savage and sarcastic natural language generation
+* **Google Gemini 1.5 Flash** natural language generation
 * **ElevenLabs** for high-quality, customizable text-to-speech
 * **SpeechRecognition** for capturing your voice input
 * **Pygame** for audio playback
