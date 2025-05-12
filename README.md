@@ -47,7 +47,7 @@ GEMINI_API_KEY=your_google_gemini_api_key
 ELEVENLABS_API_KEY=your_elevenlabs_api_key
 
 AI_NAME=Misa
-AI_PERSONALITY=You are Misa, Yasiru's personal AI assistant. You're witty, sarcastic, brutally honest, and confident.
+AI_PERSONALITY=You are a helpful AI assitant.
 VOICE_ID=21m00Tcm4TlvDq8ikWAM
 MODEL_ID=eleven_multilingual_v2
 EXIT_COMMANDS=exit,quit,stop,goodbye,bye,exit misa
