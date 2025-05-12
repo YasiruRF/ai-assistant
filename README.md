@@ -128,4 +128,3 @@ MIT License — feel free to use, fork, and personalize.
 
 ---
 
-Would you like a sample `requirements.txt` or a quick-start `.env` template included in the repo?
